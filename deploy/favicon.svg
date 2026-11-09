@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Circular arrow -->
+  <path d="M50 10 A40 40 0 1 1 20 30" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+  <!-- Arrow head -->
+  <polygon points="18,28 28,30 22,38" fill="#2563eb"/>
+  <!-- Play button -->
+  <polygon points="40,30 70,50 40,70" fill="#f43f5e"/>
+</svg>
